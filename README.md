@@ -19,14 +19,16 @@ src フォルダをUnityで開きます。
 
 ![結果画像7](result_7.gif)
 
-![結果画像](result.gif)
+![result_1](https://github.com/shun-chi-man/PGWS4_4_noise/assets/146050674/1146ce97-24ff-4d64-b3dc-bc1fd307cb55)
 
-![シェーダグラフ](node_graph.png)
+
+![Brick Desolve SG1](https://github.com/shun-chi-man/PGWS4_4_noise/assets/146050674/1c3ff81c-ff0c-4f85-8d76-d612c3dc8016)
+
 
 ## 自分なりに変更した点
--
--
--
+-  7 Desolve Sceneの煉瓦のテクスチャに色を足して、7色の煉瓦のテクスチャを貼ったPlaneオブジェクトを作りました。
+-　7つのオブジェクトを並べて、ディゾルブをするとその奥に別の色の煉瓦のオブジェクトが現れるようにしました。
+-　7つのオブジェクトが7秒周期で順番にディゾルブし続けるループ処理のスクリプトを加えました。
 
 ## 進め方
 
