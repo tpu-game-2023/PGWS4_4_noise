@@ -19,14 +19,17 @@ src フォルダをUnityで開きます。
 
 ![結果画像7](result_7.gif)
 
-![結果画像](result.gif)
+![結果画像](result1.gif)
+
+https://github.com/simulacru/test/assets/104343269/0a85755f-efb9-426e-984e-a7679a95702c
 
 ![シェーダグラフ](node_graph.png)
 
 ## 自分なりに変更した点
--
--
--
+- ノイズのオクターブを4から8に増やし、テスクチャを追加することでノイズに色を付けた
+- ノイズのオクターブによって「Time」を「Time(1)」,「Sine Time(1)」,「Cosine Time(1)」に変えた
+- ディソルブにアニメーションをつけ、Metallicの値を0.5に増やした
+- 球の「Two Sided」をONにした
 
 ## 進め方
 
