@@ -19,12 +19,12 @@ src フォルダをUnityで開きます。
 
 ![結果画像7](result_7.gif)
 
-![結果画像](result.gif)
+![結果画像](https://github.com/funoji/PGWS4_4_noise/blob/main/MyBest.gif?raw=true)
 
-![シェーダグラフ](node_graph.png)
+![シェーダグラフ](https://github.com/tpu-game-2023/PGWS4_4_noise/assets/90616260/99447889-42e1-485f-af9b-a48a9cf9f275)
 
 ## 自分なりに変更した点
--
+-cubeを透明な迷彩柄のようにしてみました
 -
 -
 
