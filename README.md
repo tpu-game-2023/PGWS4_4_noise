@@ -19,14 +19,13 @@ src フォルダをUnityで開きます。
 
 ![結果画像7](result_7.gif)
 
-![結果画像](result.gif)
+![結果画像](movie_001.gif)
 
-![シェーダグラフ](node_graph.png)
+![シェーダグラフ](reesult_node_graph.png)
 
 ## 自分なりに変更した点
--
--
--
+- ノードを綺麗に整理した
+- 時間経過で透明になるようにした
 
 ## 進め方
 
