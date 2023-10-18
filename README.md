@@ -5,28 +5,26 @@
 
 src フォルダをUnityで開きます。
 
-![結果画像1](result_1.jpg)
+![結果画像1](https://github.com/Iketerumanato/ComingHome/assets/74332407/be124645-8f76-4116-b915-aeec74b62466)
 
-![結果画像2](result_2.gif)
+![結果画像2](https://github.com/Iketerumanato/ComingHome/assets/74332407/901fb243-3a78-49be-b982-15cf0f7c5427)
 
-![結果画像3](result_3.jpg)
+![結果画像3](https://github.com/Iketerumanato/ComingHome/assets/74332407/f9e7a3f4-92a9-44ae-a8b3-8aa5c5c8f54b)
 
-![結果画像4](result_4.gif)
+![結果画像4](https://github.com/Iketerumanato/ComingHome/assets/74332407/d618f573-ef90-4b5d-a23f-07442da5aed1)
 
-![結果画像5](result_5.gif)
+![結果画像5](https://github.com/Iketerumanato/ComingHome/assets/74332407/7a42b149-fec0-456f-bb4b-1e9366888338)
 
-![結果画像6](result_6.gif)
+![結果画像6](https://github.com/Iketerumanato/ComingHome/assets/74332407/8de62caf-50a9-47b6-994c-5af48c971a9b)
 
-![結果画像7](result_7.gif)
+![結果画像7](https://github.com/Iketerumanato/ComingHome/assets/74332407/3761ac50-f9b2-4c03-b0f0-975b199b5a27)
 
-![結果画像](result.gif)
+![結果画像](https://github.com/Iketerumanato/ComingHome/assets/74332407/f97375f6-2472-43bf-9d4e-2cae400883b1)
 
-![シェーダグラフ](node_graph.png)
+![シェーダグラフ](https://github.com/Iketerumanato/ComingHome/assets/74332407/c5ae16db-cd3e-42f6-8fe9-6f4227b481c1)
 
 ## 自分なりに変更した点
--
--
--
+-惑星を表現するためにテクスチャを追加
 
 ## 進め方
 
